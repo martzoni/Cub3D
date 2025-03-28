@@ -28,9 +28,9 @@ A 3D maze game using raycasting technique, inspired by the iconic Wolfenstein 3D
 Cub3D/
 ├── sources/         # Source files
 ├── includes/        # Header files
-├── maps/           # Map files (.cub)
-├── textures/       # Wall textures (.xpm)
-└── Makefile        # Build configuration
+├── maps/            # Map files (.cub)
+├── textures/        # Wall textures (.xpm)
+└── Makefile         # Build configuration
 ```
 
 ## 🚦 Getting Started
